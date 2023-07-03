@@ -1,4 +1,4 @@
-// Accept N Numbers from User and accept one another number as NO and return Largest  Number
+// Accept N Numbers from User and Display summation of Digits of each number
 
 #include<stdio.h>
 #include<stdlib.h>
