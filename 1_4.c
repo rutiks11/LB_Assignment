@@ -5,7 +5,7 @@ typedef int BOOL;
 
 BOOL Check(BOOL iNo)
 {
-    if((iNo % 5 == 0))
+    if((iNo % 5) == 0)
     {
         return TRUE;
     }   
